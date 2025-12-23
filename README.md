@@ -1,17 +1,22 @@
-# Dynamic-NFT-dNFT-Framework
-Dynamic NFT (dNFT) Framework:** NFTs that can change their attributes, appearance, or even behavior based on external data or owner interactions.
 # Dynamic NFT (dNFT) Framework
 
-**Mission:** A framework for developers to create and manage Dynamic NFTs whose metadata or behavior can change based on external conditions or interactions. It targets NFT creators, game developers, and digital artists. *(Stage: Concept / Early Development)*
+**Mission:** **Future Growth Product / Strategic Initiative.** A developer framework and suite of smart contracts for creating NFTs with mutable metadata, evolving traits, and on-chain interactivity. We enable new utility for digital collectibles, gaming, and brand engagement.
 
-## 🎯 PHASE 1 - CLARITY & SCOPE
-**Parent Initiative:** Org-wide Clarity & Core Infra
-**Objective:** Clearly define the project's strategic purpose and initial scope to evaluate its viability as a potential primary revenue driver.
+**Stage:** **Research & Development – Awaiting Resource Allocation**
 
-### Immediate Actions:
-1.  **Define Strategic Path:** Decide if this is a standalone product, a feature of a larger marketplace, or an internal tool.
-2.  **Set Up Tracking:** Create a GitHub Project to map out the core framework architecture, smart contract modules, and example implementations.
-3.  **Secure Pipeline:** Implement a basic CI pipeline that runs code quality checks and contract compilation tests for each commit.
+## 🎯 PHASE 1 EXECUTION: CLARITY & SCOPE
+**This repository is a strategic R&D project for future market expansion.**
+-   **Owner:** *[RickCreator87]* | **Dependencies:** *Follows primary driver roadmap*
+-   **Target Prototype:** *[Set Date: e.g., After KYC SDK MVP Launch]*
 
-**Owner:** *[Assign Product/Tech Lead]*
-**Roadmap Link:** See the central organizational roadmap in [gitdigital-products.io](https://github.com/Gitdigital-products/gitdigital-products.io)
+### Immediate Actions (This Week):
+-   [ ] **Define Prototype Scope:** Document 1-2 core dynamic NFT "behaviors" to build (e.g., time-based evolution, oracle-triggered change).
+-   [ ] **Create GitHub Project Board:** Link it here: `[Link to Project Board]`. Scope Epics: `Market Research`, `Architecture Design`, `Proof-of-Contract`.
+-   [ ] **Establish Basic CI:** Implement pipeline for Solidity/Rust linting and contract compilation tests.
+
+### 📁 Repository Structure & Purpose
+-   `/contracts/` – **Future Product Core:** Reusable smart contract modules for different dynamic behaviors.
+-   `/examples/` – **Developer Adoption Key:** Example implementations (e.g., an evolving artwork NFT, a game character NFT).
+-   `/docs/` – **Product Foundation:** Technical specifications and white papers.
+
+**Strategic Link:** This project's timeline and resource allocation are guided by the success of the primary revenue driver. The overall strategy is in: [gitdigital-products.io](https://github.com/Gitdigital-products/gitdigital-products.io).
