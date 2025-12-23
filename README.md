@@ -6,7 +6,7 @@
 
 ## 🎯 PHASE 1 EXECUTION: CLARITY & SCOPE
 **This repository is a strategic R&D project for future market expansion.**
--   **Owner:** *[RickCreator87]* | **Dependencies:** *Follows primary driver roadmap*
+-   **Owner:** *[GitDigital-Products]* | **Dependencies:** *Follows primary driver roadmap*
 -   **Target Prototype:** *[Set Date: e.g., After KYC SDK MVP Launch]*
 
 ### Immediate Actions (This Week):
