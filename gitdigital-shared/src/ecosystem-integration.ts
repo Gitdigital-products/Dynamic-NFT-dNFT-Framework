@@ -5,7 +5,6 @@ import { LoanRepaymentIntegration } from '../../Checkout-core/src/loan-integrati
 import { LoanLedgerAdapter } from '../../Ledger/src/loan-adapter';
 import { DynamicNFTService } from '../../Dynamic-NFT-dNFT-Framework/src/service';
 import { ReputationNetwork } from '../../Reputation-Network/src/client';
-import { FounderLoanProgram } from '../../founder-loan-program/src/client';
 
 export class GitDigitalEcosystem {
   private loanIntegration: LoanRepaymentIntegration;
