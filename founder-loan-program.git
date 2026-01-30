@@ -1,0 +1,20 @@
+# Clone your repo (if not already local)
+git clone https://github.com/Gitdigital-products/founder-loan-program.git
+cd founder-loan-program
+
+# Check 1: Does it build?
+cargo build
+# Should complete with no errors
+
+# Check 2: Do tests pass?
+cargo test
+# Or if using Anchor:
+anchor test
+
+# Check 3: Is the program ID set correctly?
+grep "declare_id" programs/founder_loan_program/src/lib.rs
+# Should show your deployed program ID, not the placeholder
+
+# Check 4: Are dependencies correct?
+cat Cargo.toml
+# Should have anchor-lang, anchor-spl with compatible versions
